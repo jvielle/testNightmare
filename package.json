@@ -1,0 +1,23 @@
+{
+  "name": "gototest",
+  "version": "1.0.0",
+  "description": "BDD test for gotooptician.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien Vielle",
+  "license": "ISC",
+  "devDependencies": {
+    "nightmare": "^2.8.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvielle/testNightmare.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jvielle/testNightmare/issues"
+  },
+  "homepage": "https://github.com/jvielle/testNightmare#readme"
+}
